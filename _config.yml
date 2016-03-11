@@ -1,0 +1,28 @@
+name: try
+favicon: null
+layout_spectrum: 0.9526286090258509
+typography_spectrum: 0.03948993515223265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.26221184176392853
+  lightness: 0.6036517636384815
+  saturation: 0.6597888704854995
+  rhythmicContrast: 0.9053541759494692
+purpose: []
